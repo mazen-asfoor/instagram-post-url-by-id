@@ -1,2 +1,2 @@
 from functions import getUrlFromMediaId
-print(getUrlFromMediaId(YOUR MEDIA ID))  # provide media id
+print(getUrlFromMediaId('17858843269216389'))  # provide media id
